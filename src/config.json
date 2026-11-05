@@ -1,0 +1,15 @@
+{
+ "hg": {
+  "username": "",
+  "password": "",
+  "branch_id": "",
+  "partition": "za5"
+ },
+ "server": {
+  "port": 8899,
+  "auto_open": false
+ },
+ "policies": {
+  "off_shelf_policy": "restore_in_stock"
+ }
+}

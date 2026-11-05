@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 运行数据（含 SID / 店铺配置，不要提交）
+data/
+*.jsonl
+current_sid.txt
+
+# 抓包后端大文件
+tools/sid/SID抓取后端.exe
+
+# 构建产物
+build/
+dist/
+release/
+out/
+runtime/
+
+# 系统
+Thumbs.db
+desktop.ini
